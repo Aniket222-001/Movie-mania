@@ -102,10 +102,11 @@
     }
     .vid-frame{
         height: 150px;
+        width: 200px;
     }
     .vid-story{
         padding-left: 10%;
-        width: 200px;
+        width: 80%;
         padding-right: 0;
     }
     .vid-img-box2{
