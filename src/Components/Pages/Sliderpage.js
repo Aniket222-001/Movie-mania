@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import datas from '../../data/data'
+import datas from '../../data/Sliderdata'
 import './Vidpage.css'
 
 const Vidpage = () => {
