@@ -1,0 +1,116 @@
+.vid-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;  
+    width: 100%;
+    font-size: larger;
+    /* background-image: url('../Images/Animal-HD-WAllpaper-22.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+
+.vid-img{
+    width: 100%;
+    height: 400px;
+    margin-top: 40px;
+    margin-left: 10%;
+    border: 5px solid rgb(237, 216, 96);
+    display: flex;
+    justify-content: center;
+}
+
+.vid-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    font-weight: bold;
+    color: red;
+    width: 100%;
+}
+
+.vid-rel{
+    display: flex;
+    justify-content: center;
+}
+
+.vid-frame{
+    border: 10px solid rgb(244, 222, 94);
+    width: 80%;
+}
+
+.vid-story{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.vid-age{
+    display: flex;
+    justify-content: center;
+}
+
+.vid-img-box{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.vid-desc{
+    display: flex;
+    justify-content: center;
+    /* margin: 10px;   */
+    /* margin-left: 50px; */
+    /* padding-right: 10%;
+    padding-left: 10%; */
+    width: 100%;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.vid-detail{
+    /* border: 2px solid rgb(241, 221, 108); */
+}
+.vid-trailer{
+    display: flex;
+    justify-content: center;
+}
+
+.vid-frame{
+    width: 60%;
+    height: 400px;
+}
+.vid-trail{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+    width: 100%;
+}
+
+@media screen and (max-width: 700px) {
+    .vid-img-box{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        font-size: small;    
+    }
+    .vid-img{
+        display: flex;
+        justify-content: center;
+        width: 80%;
+    }
+    .vid-frame{
+        height: 150px;
+    }
+    .vid-story{
+        padding-left: 10%;
+        width: 80%;
+        padding-right: 0;
+    }
+    .vid-img-box2{
+        width: 100%;
+        margin: 0;
+    }
+    
+}

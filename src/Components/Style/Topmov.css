@@ -1,0 +1,117 @@
+.Topmov-container{
+     display: grid;
+     grid-template-columns: auto auto auto auto ;
+     /* width: 100%;   */
+     /* justify-content: center    */
+}
+
+.Topmov-card{
+    /* border: 2px solid rebeccapurple; */
+    padding: 10px;
+    margin-bottom: 5px;
+    height: 300px;
+    /* width: 280px; */
+    /* width: 100%; */
+}
+
+.Topmov-img{
+    opacity: 1;
+    max-width: 100%;
+    width: 21vw;
+    height: 250px;
+    /* object-fit: cover;  */
+}
+
+.Topmov-card:hover .Topmov-img{
+    opacity: 1;
+    filter: brightness(50%);
+}
+
+.Topmov-card:hover .Topmov-name {
+    opacity: 1;
+    text-decoration: none;
+    text-decoration: solid;
+}
+
+.Topmov-name{
+    opacity: 0;
+    position: relative;
+    top: -30%;
+    transform: translateY(-30%);
+    color: rgb(247, 239, 239);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+    width: 21vw;
+}
+
+
+
+.Topmov-data{
+    position: relative;
+    top: -20%;
+    border: 2px solid red;
+    width: 21vw;
+} 
+
+
+.Mov-btn-box{
+    display: flex;
+}
+
+.Mov-btn{
+    font-size: large;
+    padding: 10px;
+    margin: 2px;
+    border: 1px solid red;
+    cursor: pointer;
+    margin: 0px 0px 10px 10px;
+   
+}
+.Mov-btn:hover{
+    /* background-color: rgb(74, 74, 209); */
+    font-size: larger;
+    color: red;
+}
+@media screen and (max-width: 665px) {
+    .Topmov-container{
+        display: grid;
+        grid-template-columns: auto auto  ;
+        width: 100%;     
+   }
+   .Topmov-img{
+    width: 100%;
+   }
+   .Topmov-data{
+    width: 100%;
+    
+   }
+   .Topmov-name{
+    width: 100%;
+   }
+   .Mov-btn-box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+   }
+}
+@media screen and (max-width: 400px) {
+    .Topmov-container{
+        display: grid;
+        grid-template-columns: auto  ;
+        width: 100%;   
+   }
+   .Topmov-img {
+    width: 100%;
+   }
+   .Topmov-data{
+    width: 100%;
+   }
+   .Topmov-name{
+    width: 100%;
+   }
+   .Mov-btn-box{
+    display: grid;
+    grid-template-columns: auto auto ;
+}
+}
