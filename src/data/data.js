@@ -18,7 +18,7 @@ const datas = [
       title: "Deadpool",
       Category: 'Action',
       img: require('../Components/Images/Deadpool.jpg'),
-      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1708621265/Easy_Tawa_Pizza___%E0%A4%A4%E0%A4%B5%E0%A4%BE_%E0%A4%AA%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A4%BE_%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80___Pizza_at_home_without_oven_without_yeast___Chef_Ranveer_Brar_bnhksu.mp4',
+      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1709044264/Movievideos/Hollywood%20trailers/mh0tavs1aag1lrgfi9g8.mp4',
       desc: `lLorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Nulla laborum officiis numquam aut quod iusto deleniti, ullam molestias rem. Incidunt, si
       nt. Praesentium vero quod aperiam est cupiditate aliquid iusto necessitatibus ullam ea dolore.`,
@@ -31,7 +31,7 @@ const datas = [
       title: "Justice League",
       Category: 'Action',
       img: require('../Components/Images/justice-league2751453.jpg'),
-      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1708621265/Easy_Tawa_Pizza___%E0%A4%A4%E0%A4%B5%E0%A4%BE_%E0%A4%AA%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A4%BE_%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80___Pizza_at_home_without_oven_without_yeast___Chef_Ranveer_Brar_bnhksu.mp4',
+      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1709044257/Movievideos/Hollywood%20trailers/d6hrtfipbjlt5jreaibj.mp4',
       desc: `lLorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Nulla laborum officiis numquam aut quod iusto deleniti, ullam molestias rem. Incidunt, si
       nt. Praesentium vero quod apenriam est cupiditate aliquid iusto necessitatibus ullam ea dolore.`,
@@ -41,7 +41,7 @@ const datas = [
     },
     
     {
-      id: 5,
+      id: 4,
       title: "Animal",
       Category: 'comedy',
       img: require('../Components/Images/Animal-HD-WAllpaper-22.jpg'),
@@ -54,7 +54,7 @@ const datas = [
       time: "2h 20min"
     },
     {
-      id: 2,
+      id: 5,
       title: "Salaar",
       Category: 'Topmov',
       img: require('../Components/Images/Salaar-2023d207559edd697495.jpg'),
@@ -68,7 +68,7 @@ const datas = [
       time: "2h 20min"
     },
     {
-      id: 3,
+      id: 6,
       title: "Bahubali",
       Category: 'Topmov',
       img: 'https://res.cloudinary.com/dkb6cpj99/image/upload/v1708866723/MovieImages/Bollywood/Bahubali.jpg',
@@ -81,7 +81,7 @@ const datas = [
       time: "2h 20min"
     },
     {
-      id: 4,
+      id: 7,
       title: "Avengers Endgame",
       Category: 'Topmov',
       img: 'https://res.cloudinary.com/dkb6cpj99/image/upload/v1708920084/MovieImages/Hollywood/yqjzembguj6hlq8wgq4b.jpg',
@@ -94,7 +94,7 @@ const datas = [
       time: "2h 20min"
     },
     {
-      id: 5,
+      id: 8,
       title: "Lord of the Rings",
       Category: 'Topmov',
       img: 'https://res.cloudinary.com/dkb6cpj99/image/upload/v1708920080/MovieImages/Hollywood/sx3rh5mrs4vtgjtq1u4t.jpg',
@@ -107,7 +107,7 @@ const datas = [
       time: "2h 20min"
     },
     {
-      id: 6,
+      id: 9,
       title: "Deadpool 2",
       Category: 'Upcoming-movie',
       img: require('../Components/Images/Deadpool_2.jpg'),
