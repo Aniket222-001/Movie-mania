@@ -4,7 +4,7 @@ const datas = [
       title: "Avengers",
       Category: 'Actiovn',
       img: require('../Components/Images/the-avengers-superhero-movie-eeotwqkmypkvalg9.jpg'),
-      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1708621265/Easy_Tawa_Pizza___%E0%A4%A4%E0%A4%B5%E0%A4%BE_%E0%A4%AA%E0%A4%BF%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A4%BE_%E0%A4%B0%E0%A5%87%E0%A4%B8%E0%A4%BF%E0%A4%AA%E0%A5%80___Pizza_at_home_without_oven_without_yeast___Chef_Ranveer_Brar_bnhksu.mp4',
+      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1709044250/Movievideos/Hollywood%20trailers/ygt8a5jrcujqtsspcuau.mp4',
       desc: `lLorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Nulla laborum officiis numquam aut quod iusto deleniti, ullam molestias rem. Incidunt, si
       nt. Praesentium vero quod aperiam est cupiditate aliquid iusto necessitatibus ullam ea dolore.`,
