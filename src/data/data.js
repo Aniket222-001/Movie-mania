@@ -85,7 +85,7 @@ const datas = [
       title: "Avengers Endgame",
       Category: 'Topmov',
       img: 'https://res.cloudinary.com/dkb6cpj99/image/upload/v1708920084/MovieImages/Hollywood/yqjzembguj6hlq8wgq4b.jpg',
-      video:'',
+      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1709044276/Movievideos/Hollywood%20trailers/hv4ofttcectiadfad3qn.mp4',
       desc: `lLorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Nulla laborum officiis numquam aut quod iusto deleniti, ullam molestias rem. Incidunt, si
       nt. Praesentium vero quod apenriam est cupiditate aliquid iusto necessitatibus ullam ea dolore.`,
@@ -98,7 +98,7 @@ const datas = [
       title: "Lord of the Rings",
       Category: 'Topmov',
       img: 'https://res.cloudinary.com/dkb6cpj99/image/upload/v1708920080/MovieImages/Hollywood/sx3rh5mrs4vtgjtq1u4t.jpg',
-      video:'',
+      video:'https://res.cloudinary.com/dkb6cpj99/video/upload/v1709044314/Movievideos/Hollywood%20trailers/eepph17y1lo4qjlwg2ep.mp4',
       desc: `lLorem, ipsum dolor sit amet consectetur adipisicing elit. 
       Nulla laborum officiis numquam aut quod iusto deleniti, ullam molestias rem. Incidunt, si
       nt. Praesentium vero quod apenriam est cupiditate aliquid iusto necessitatibus ullam ea dolore.`,
