@@ -4,7 +4,9 @@ import '../Components/Style/Topmov.css'
 import { Link } from 'react-router-dom'
 
 const Topmov = () => {
-    const [Movie,setMovie] = useState(datas)
+    const [Movie,setMovie] = useState(datas.filter((data)=>{
+    return data.Category == 'Topmov'
+}))
 
     const choose =(category)=>{
         setMovie(
